@@ -1,5 +1,5 @@
 # hello-world
-just another repository
+just another edited in master repository
 
 David's familiarization repository.
 
