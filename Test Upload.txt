@@ -2,7 +2,7 @@ This is a text file. Upload to git branch.
 
 Edited Again 28
 
-For Ticket 59
+For Ticket 59dd
 
 New Line
 
@@ -12,3 +12,5 @@ change made in branch 2 - no ticket info
 
 
 change made in master 25
+
+Changed in local repository
